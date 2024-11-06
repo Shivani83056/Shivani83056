@@ -1,29 +1,61 @@
-👋 Hi, I'm Shivani Singh!
-💼 Software Development Engineer in Test (SDET)
-🎓 I'm a Computer Science graduate with a Master’s in Physics, currently honing my skills in manual and automation testing at Masai School. With a strong focus on algorithmic error detection and logic error resolution, I’m passionate about elevating software quality through robust testing processes and attention to detail.
+## 👩‍💻 About Me
 
-🛠 Technical Skills
-Languages: JavaScript, Python, Java
-Testing Frameworks: Cypress, Selenium, Cucumber, Postman
-Design Patterns: Page Object Model (POM)
-Version Control: Git
-Collaboration & Management: JIRA
-🚀 Projects
-🌟 Logic Lifters
-Focused on algorithmic and logic errors in software applications
+### Hi there 👋 I'm Shivani Singh, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
-Created detailed test plans and cases for algorithm-heavy modules.
-Worked closely with developers, enhancing the understanding of complex software requirements.
-Documented and reported issues with clear reproduction steps, ensuring faster bug resolution.
-☕ Coffee Shop Order Management System
-JavaScript-based management system for handling real-world coffee shop tasks
+- 🌱 Currently Learning: Advanced automation techniques using Cypress and Selenium WebDriver.
+- 📊 Experience: Developing automated test scripts, writing detailed test cases, and performing in-depth test analyses.
+- 💼 Projects: Completed multiple end-to-end testing projects, including manual and automated testing for eCommerce applications.
+- 🌍 Location: Chandigarh.
 
-Developed a Node.js application for managing orders, updating statuses, and calculating bills.
-Integrated features to simulate a real coffee shop environment, handling multiple table orders and tracking statuses like 'Preparing,' 'Served,' and 'Completed.'
-🌱 About Me
-I'm driven by curiosity and the pursuit of excellence in software quality. I enjoy exploring new places and learning new technologies, continually working to master tools that improve testing efficiency.
 
-📫 Let’s Connect!
-GitHub: Shivani83056
-LinkedIn: www.linkedin.com/in/shivanisingh112001
-Email: shivanisingh535350@gmail.com
+## 🚀 What Do I Do?
+
+- 🔍 Software Quality Assurance: Focused on ensuring bug-free and high-performance applications.
+- 💡 Continuous Learning: Always eager to learn new tools and testing methodologies to improve software quality.
+- 🧩 Problem Solving: Enjoy debugging issues and optimizing test scripts to achieve efficiency.
+- 🤝 Collaboration: Thrive in team environments, working closely with developers to enhance product quality.
+- 🎯 Automation-Driven: Committed to expanding the scope of automation to improve test accuracy and save time.
+- 
+
+## 🛠 My Tech Toolbox:
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge)
+![TestNG](https://img.shields.io/badge/-TestNG-FF6F00?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+
+## 🖇 Let's Connect!
+
+- 📧 Email: shivanisingh535350@gmail.com
+- 🔗 LinkedIn:www.linkedin.com/in/shivanisingh112001
+##
+
+  Thanks for stopping by! 😊
+
+
+<!--
+*Shivani83056* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->v
