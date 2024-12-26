@@ -5,7 +5,7 @@
 - 🌱 Currently Learning: Advanced automation techniques using Cypress and Selenium WebDriver.
 - 📊 Experience: Developing automated test scripts, writing detailed test cases, and performing in-depth test analyses.
 - 💼 Projects: Completed multiple end-to-end testing projects, including manual and automated testing for eCommerce applications.
-- 🌍 Location: Chandigarh.
+- 🌍 Location: Satna(MP)
 
 
 ## 🚀 What Do I Do?
